@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha-ahmed-1&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha-ahmed-1&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-ahmed-1&show_icons=true&locale=en&layout=compact&theme=radical" width=60% />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-ahmed-1&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-ahmed-1&theme=radical"  width=60% />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-ahmed-1&theme=dracula"  width=60% />
 
 
  
