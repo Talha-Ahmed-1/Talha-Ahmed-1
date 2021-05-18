@@ -81,7 +81,7 @@ Here are some ideas to get you started:
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talha-ahmed-1&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talha-ahmed-1&theme=dracula&area=true&hide_border=true)
 <!-- &bg_color=000000&color=4fff67&line=4fff67&point=ffffff -->
 
 <!-- [twitter]: https://twitter.com/shahzaib_kash
