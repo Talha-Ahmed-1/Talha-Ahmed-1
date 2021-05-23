@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Talha Ahmed</h1>
 <h3 align="center">A passionate tech geek from Pakistan</h3>
 
+
 <!-- ----------------------------------- -->
 - 🔭 I’m currently working on [SPI Flash Interface in Chisel](https://github.com/Talha-Ahmed-1/SPI-Chisel)
+
+- 💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>.
+
+- 🥇 I have represented Pakistan Internationally in <a href="https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/"> RISC-V Summit 2020</a>.
+ 
+- ⚡ I am one of the Pioneers of RISC-V Open Source Silicon Revolution in Pakistan.
 
 - 🌱 I’m currently learning **Scala, CHISEL, Flutter, Dart, Django**
 
