@@ -39,6 +39,14 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
+
+[<img align="left" alt="Talha-Ahmed-1 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Talha-Ahmed-1 Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Talha-Ahmed-1 Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Talha-Ahmed-1 Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
+<br />
+
+
 [linkedin]: https://www.linkedin.com/in/talha-a-316a68113/
 [facebook]: https://fb.com/talha.ahmed.75033/
 [stackoverflow]: https://stackoverflow.com/users/talha-ahmed/
