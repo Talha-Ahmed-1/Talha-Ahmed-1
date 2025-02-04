@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=talha-ahmed-1&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=40% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-ahmed-1&theme=dracula"  width=42% />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-ahmed-1&theme=dracula" width=42% /> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-ahmed-1&show_icons=true&locale=en&layout=compact&theme=dracula" width=40% />
 
